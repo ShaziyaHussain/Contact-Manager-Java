@@ -1,0 +1,18 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore build folders
+build/
+out/
+classes/
+
+# Ignore IDE settings (Eclipse, IntelliJ)
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
